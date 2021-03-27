@@ -1,2 +1,2 @@
 # ipsweeper
-A simple program to show all IP adresses on your network.
+A simple program to show all IP adresses connected to your network.
